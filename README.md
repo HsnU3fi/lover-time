@@ -1,3 +1,4 @@
+![lovertime1](https://user-images.githubusercontent.com/87602282/229130061-06cca1cc-9793-4be7-b220-3e13f7333b2b.png)
 # weeding-site
 
 ## Project setup
